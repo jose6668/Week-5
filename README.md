@@ -22,3 +22,5 @@ Los ADR pueden estar relacionados con:
 - Listar todos los ADR posibles del proyecto.
 - De esa lista, cada Rol debera implementar **3 ADR**.
 - Entregar un **informe de impacto**, explicando cómo cada ADR mejora el sistema.
+
+
