@@ -52,13 +52,7 @@ Los ADR pueden estar relacionados con:
 ## Preguntas de seguimiento semanal
 
 ### ¿Qué se hizo?
-- Se identificaron y documentaron los ADR relevantes para el proyecto.
- - Se implementaron y documentaron los ADR-011, ADR-012, ADR-015, ADR-017, ADR-018 y ADR-019.
-- Se añadieron los archivos ADR-016 a ADR-020 en `docs/ADR` y se actualizó el listado en el README.
-- Se mejoró la estructura del README para incluir la lista de ADR y las preguntas de seguimiento.
-- Se completaron los informes de impacto para ADR-011, ADR-012, ADR-015 y ADR-016–ADR-020.
-- Se asignaron responsables para validar los ADR implementados.
-- Se verificó en un entorno de staging que los cambios en logging, endpoints y manejo de excepciones funcionen según lo documentado.
+ - Se identificaron y documentaron los ADR relevantes para el proyecto.
 
 ### ¿Qué no se logró?
 - Ninguno relevante: los informes de impacto, asignaciones y verificaciones en staging han sido completados.
