@@ -1,6 +1,11 @@
 
 # Week-5
 
+## Direccionamiento HTML
+
+- Archivo: [WEEK 5.html](./WEEK%205.html)
+- Descripcion: muestra un resumen visual del estado de los ADR (logros, pendientes y acciones siguientes).
+
 # ADR – Arquitectura de Software
 
 Cada Rol deberá aplicar **5 ADR (Architecture Decision Records)** dentro del proyecto.
