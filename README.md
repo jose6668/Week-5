@@ -82,4 +82,7 @@ Los ADR pueden estar relacionados con:
 2. **ADR-012: Endpoint de Estado Simple**
 	- Se implementó un endpoint `/status` en los servicios para verificar su disponibilidad y estado de salud.
 
+3. **ADR-015: Excepciones Simples**
+	- Se estandarizó el manejo de excepciones simples en los servicios, creando respuestas consistentes y mejorando la trazabilidad de errores.
+
 
